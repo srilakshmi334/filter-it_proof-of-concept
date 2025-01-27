@@ -1,4 +1,4 @@
-# filter-it---proof-of-concept
+# filter it (proof-of-concept)
 CAS Group Project - "filter it" (proof-of-concept)
 
 A Java group project idea to help high school students build/auto-generate personalized resumes based on the responses to a survey conducted via the app. Users are meant to login, select their desired template, and then answer questions pertaining to their resume. Upon completion, the app generates their information to a resume template which could then be saved and emailed as necessary.
