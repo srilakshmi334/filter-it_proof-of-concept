@@ -1,0 +1,25 @@
+UX Case - filter it
+
+Project Overview:
+The following project is a proof-of-concept idea based on resume "auto-generation" based on user input. The idea was developed from hearing student complaints about developing resumes that fit their dream/target jobs. The goal of this project was to attempt this user design and see how it would function if it were to be fully developed.
+
+Roles/Responsibilities (all done w/ collaborator):
+1. Developed flowchart/potential UML for the original project design
+2. Completed research on the target audience (young adults) to determine the ideal types of roles people are applying for
+3. Considered a variety of templates while choosing the most common/popular
+4. Began implementation/programming of initial prototype for a formal resume template (with a focus on using more efficient data structures/code design)
+5. Collaborated to determine alternative ideas/solutions to challenges presented during the implementation process
+
+Core Problem:
+High school students can struggle with developing a resume that fits their dream roles because they are unsure of how to formulate all the experiences (i.e. clubs, volunteering, passion projects) that they've had while not sounding repetitive or similar to other candidates. The goal of this app is to generate a resume that is based on specific user responses to targeted questions that allows for authenticity while maintaining professionalism and the student's unique voice.
+
+Research Methods:
+1. Speaking with other students/drawing on collaborators' experiences
+2. Consulting online sources about different resume styles/necessary components
+3. Developing a UX design that is simple to use while maintaining efficiency/directness (questions are specific, meaning the user does not have to guess their answers)
+
+Final Design Solution:
+While this project is incomplete, the current proof-of-concept suggests that there is potential to turn this application into a resume auto-generation system that could help young users find ease and accessibility in preparing resumes that fit their dream jobs/roles. The development process proved challenging from a technical aspect, however, based on research and design, the original idea still remains possible and could be completed and tested with users in the future.
+
+Reflection:
+There were many challenges to this project, many from a technical standpoint. In terms of the coding process, there with issues with the formatting of the actual resume template due to the variance of answers that could be provided from user input. The current design does not implement the AI auto-generation feature we hoped, as our main goal was to attempt to transpose the user responses to the original template with slight changes that were made on the backend of the project. However, from a UX/UI design standpoint, our flowchart was well thought-out and contained features (i.e. format filtering) which would give users more options in personalizing their resume. Going forward, there would likely be changes in the overall design/presentation of the interface to better support users, however, the current implementation provides a base structure for the app design in the future.
